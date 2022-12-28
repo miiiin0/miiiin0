@@ -37,6 +37,8 @@
 
 <br><hr><br> 
 
-## **🏃🏻‍♀️ My stats**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miiiin0&layout=compact">
+**✨ Most Used Languages**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miiiin0&layout=compact"> <br>
+
+**✨ GitHub Stats**
 <img src="https://github-readme-stats.vercel.app/api?username=miiiin0&show_icons=true&theme=buefy">
