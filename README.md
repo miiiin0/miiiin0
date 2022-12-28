@@ -37,8 +37,8 @@
 
 <br><hr><br> 
 
-**✨ Most Used Languages**
+**✨ Most Used Languages**<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miiiin0&layout=compact"> <br>
 
-**✨ GitHub Stats**
+**✨ GitHub Stats**<br>
 <img src="https://github-readme-stats.vercel.app/api?username=miiiin0&show_icons=true&theme=buefy">
