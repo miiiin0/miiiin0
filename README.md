@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>&nbsp
 </div> 
 
-<hr><br> 
+<br><hr><br> 
 
 ### ✨ **Most Used Langauages**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miiiin0&layout=compact"><br><br>
