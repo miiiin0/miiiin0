@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/></a>&nbsp  
-</div> <br> 
+</div>
 
 ### ● Back End
 <div>
@@ -25,14 +25,14 @@
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp
-</div> <br>
+</div>
 
 ### ● Infra
 <div>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>&nbsp
-</div> <br><br>
+</div> 
 
 <hr><br> 
 
