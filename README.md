@@ -4,7 +4,6 @@
 ✉️ Gmail: alsdud995766@gmail.com
 <br><br>
 
-
 ## **📚 Tech Stack** <br>
 ### ● Front End
 <div>
@@ -18,7 +17,7 @@
 
 ### ● Back End
 <div>
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></a>&nbsp 
@@ -35,10 +34,15 @@
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>&nbsp
 </div> 
 
-<br><hr><br> 
+<br>
 
-**✨ Most Used Languages**<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miiiin0&layout=compact"> <br>
+## **✨ My Stats** <br>
+<div float='left'>
+	<img src="https://github-readme-stats.vercel.app/api?username=miiiin0&show_icons=true&theme=buefy"> 
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdud5766">
+</div>	
 
-**✨ GitHub Stats**<br>
-<img src="https://github-readme-stats.vercel.app/api?username=miiiin0&show_icons=true&theme=buefy">
+	
+
+
+
